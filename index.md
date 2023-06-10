@@ -10,4 +10,4 @@ Keisuke Kuribara
 - Google 広告の測定認定資格
 - Chainalysis Reactor Certification (CRC)
 ## Sign
-![Keisuke Kuribara](/logo_black.png "Keisuke Kuribara")
+![Keisuke Kuribara](logo_black.png "Keisuke Kuribara")
