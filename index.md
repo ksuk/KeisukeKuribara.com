@@ -12,3 +12,12 @@ Keisuke Kuribara
 
 ## Sign
 ![Keisuke Kuribara](logo_black.png "Keisuke Kuribara")
+
+## Bible
+- 闇金ウシジマくん
+- ナニワ金融道
+- 銀と金
+- カイジ
+- グラップラー刃牙
+- ミナミの帝王
+- サンクチュアリ
