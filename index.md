@@ -3,8 +3,6 @@
 栗原 啓輔 / くりばら けいすけ
 ### EN
 Keisuke Kuribara
-## Sign
-![Keisuke Kuribara](logo_black.png "Keisuke Kuribara")
 ## Certification
 - Google アナリティクス個人認定資格
 - Google 広告「検索広告」認定資格
