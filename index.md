@@ -20,4 +20,5 @@ Keisuke Kuribara
 - サンクチュアリ
 
 ## Contact
-<a href="https://share.hsforms.com/1qg5HB4CpRHaCiFNwCKV_Mwdb0px" target="_blank" rel="noopener noreferrer">Contact Form</a>
+- <a href="https://share.hsforms.com/1qg5HB4CpRHaCiFNwCKV_Mwdb0px" target="_blank" rel="noopener noreferrer">Contact Form</a>
+- Telegram: Ksuk7
