@@ -3,6 +3,15 @@
 栗原 啓輔 / くりばら けいすけ
 ### EN
 Keisuke Kuribara
+## Bio
+1996年生まれ
+### Skills and Knowledge
+ブロックチェーン分析、金融犯罪対策、AML/CFT、トラベルルール、デジタルマーケティング、営業、基礎的なコンピューターサイエンス、ウェブ開発
+### Language
+- 日本語: ネイティブ
+- 英語: 読み書き
+
+
 ## Certification
 - Google アナリティクス個人認定資格
 - Google 広告「検索広告」認定資格
