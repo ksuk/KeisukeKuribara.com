@@ -11,7 +11,6 @@ Keisuke Kuribara
 - 日本語: ネイティブ
 - 英語: 読み書き
 
-
 ## Certification
 - Google アナリティクス個人認定資格
 - Google 広告「検索広告」認定資格
@@ -29,5 +28,5 @@ Keisuke Kuribara
 - サンクチュアリ
 
 ## Contact
-- <a href="https://share.hsforms.com/1qg5HB4CpRHaCiFNwCKV_Mwdb0px" target="_blank" rel="noopener noreferrer">Contact Form</a>
+- Email: keisukeniko7 [at] gmail dot com
 - Telegram: Ksuk7
