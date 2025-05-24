@@ -5,9 +5,9 @@
 ### EN
 Keisuke Kuribara
 
-### Skills and Knowledge
-- 金融（資金移動、資金決済）
-- 法令（犯収方、AMLガイドライン等）
+### Skills
+- 金融事業（資金移動、資金決済）
+- 法令対応（犯収方、AMLガイドライン等）
 - システム開発（基幹システム）
   
 ## Contact
